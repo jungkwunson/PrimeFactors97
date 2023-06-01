@@ -11,7 +11,7 @@ public:
 
 using namespace std;
 TEST_F(PrimeFixture, Of1) {
-	expected = {1};
+	expected = {};
 	EXPECT_EQ(expected, prime_factor.of(1));
 }
 
