@@ -1,0 +1,2 @@
+##PrimeFactor
+PrimeFactor KATA
